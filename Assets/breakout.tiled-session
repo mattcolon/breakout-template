@@ -1,0 +1,85 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map/Background.tmx",
+    "expandedProjectPaths": [
+        "Sprites",
+        "Map",
+        ".",
+        "Map/Blocks"
+    ],
+    "fileStates": {
+        "Map/Background.tmx": {
+            "scale": 2.2822265625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.16431322207958,
+                "y": 119.83910997004708
+            }
+        },
+        "Map/Blocks/Sprites/BreakOut Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "Map/Blocks/bronze.tmx": {
+            "scale": 139.65,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1.7794486215538845,
+                "y": 2.3236663086287144
+            }
+        },
+        "Map/Blocks/gold.tmx": {
+            "scale": 139.65,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4.85499462943072,
+                "y": 4.002864303616184
+            }
+        },
+        "Map/Blocks/silver.tmx": {
+            "scale": 87.51875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7.998286081553952,
+                "y": 5.621652503035064
+            }
+        },
+        "Sprites/BreakOut Assets.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "silver.tmx": {
+            "scale": 139.65,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7.998567848191907,
+                "y": 4.002864303616184
+            }
+        }
+    },
+    "frame.defaultDuration": 1000,
+    "last.externalTilesetPath": "D:/Development/breakout-template/Assets/Sprites",
+    "map.height": 1,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 4,
+    "openFiles": [
+        "Sprites/BreakOut Assets.tsx",
+        "Map/Blocks/bronze.tmx",
+        "Map/Blocks/gold.tmx",
+        "Map/Blocks/silver.tmx",
+        "Map/Background.tmx"
+    ],
+    "project": "breakout.tiled-project",
+    "recentFiles": [
+        "Sprites/BreakOut Assets.tsx",
+        "Map/Blocks/bronze.tmx",
+        "Map/Blocks/gold.tmx",
+        "Map/Blocks/silver.tmx",
+        "Map/Background.tmx",
+        "silver.tmx"
+    ]
+}
